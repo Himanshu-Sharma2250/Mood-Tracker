@@ -2,7 +2,7 @@
 
 A simple and intuitive web-based calendar for tracking daily moods using emojis. Store your emotional journey privately in your browser!
 
-[![Demo Preview](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-live-demo-link.com)
+[![Demo Preview](https://img.shields.io/badge/Live-Demo-brightgreen)](https://cohort-mood-tracker.netlify.app/)
 
 ## Features ✨
 - 📅 Monthly calendar view with navigation
